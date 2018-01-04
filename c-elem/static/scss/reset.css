@@ -1,0 +1,17 @@
+html,body,p,ul,li,i,span,b{
+	padding:0;
+	margin:0;
+	font-family: 'Microsoft YaHei','Arial';
+	color:#666;
+	font-size: 12px;
+}
+ul,li{
+	list-style: none;
+}
+a{
+	color:#666;
+	text-decoration: none;
+}
+a:focus{
+	color:inherit;
+}
